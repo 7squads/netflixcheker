@@ -1,4 +1,4 @@
-# Netflix-Checker
+# Netflix-Checker v1.0
 
 HQ Chekcer with built in good proxies.
 
